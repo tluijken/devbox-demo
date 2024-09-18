@@ -11,7 +11,8 @@
     "scripts": {
         "test": "cargo test -- --show-output",
         "start" : "cargo run",
-        "build-docs": "cargo doc"
+        "build-docs": "cargo doc",
+        "clean": "cargo clean"
     }
   }
 }
